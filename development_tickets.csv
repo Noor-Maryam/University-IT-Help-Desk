@@ -1,0 +1,81 @@
+id,ticket,expected_category,split
+T001,I am unable to log into the university computer lab account.,Login & Account Access,development
+T002,My account is locked after several failed login attempts.,Login & Account Access,development
+T003,I forgot my student portal password and need to reset it.,Login & Account Access,development
+T004,My account verification code is not working during login.,Login & Account Access,development
+T005,The login page keeps returning me to the sign in screen.,Login & Account Access,development
+T006,My student username is not being recognized by the system.,Login & Account Access,development
+T007,I cannot access my account after changing my password.,Login & Account Access,development
+T008,I cannot access my university account from my laptop.,Login & Account Access,development
+T011,I can connect to Wi-Fi but websites are not loading.,Wi-Fi & Network,development
+T012,My internet connection disconnects every few minutes.,Wi-Fi & Network,development
+T013,The internet connection in the computer lab is very slow.,Wi-Fi & Network,development
+T014,The university network is unavailable in my classroom.,Wi-Fi & Network,development
+T015,My laptop cannot connect to the university wireless network.,Wi-Fi & Network,development
+T016,My computer shows connected but has no internet access.,Wi-Fi & Network,development
+T017,The network connection stops working in the library.,Wi-Fi & Network,development
+T018,The campus Wi-Fi keeps disconnecting during online classes.,Wi-Fi & Network,development
+T021,I cannot install the university recommended antivirus software.,Software Installation,development
+T022,My laptop does not allow me to install the required application.,Software Installation,development
+T023,I cannot install Python on my university laptop.,Software Installation,development
+T024,I need help installing Visual Studio Code.,Software Installation,development
+T025,I receive an error when updating my computer software.,Software Installation,development
+T026,I need assistance updating the software used in our lab.,Software Installation,development
+T027,The Microsoft Office installation keeps failing.,Software Installation,development
+T028,The installation of MATLAB stops halfway through.,Software Installation,development
+T031,The computer monitor displays a distorted image.,Hardware Problem,development
+T032,My laptop overheats after a few minutes of use.,Hardware Problem,development
+T033,The laptop battery is not charging.,Hardware Problem,development
+T034,My laptop screen suddenly went black.,Hardware Problem,development
+T035,My computer switches off unexpectedly.,Hardware Problem,development
+T036,The USB ports on my university computer are not working.,Hardware Problem,development
+T037,The keyboard keys on my computer are not responding.,Hardware Problem,development
+T038,My computer makes unusual noises when starting.,Hardware Problem,development
+T041,The university email service is not loading.,Email Issue,development
+T042,My university email inbox is showing an error.,Email Issue,development
+T043,I am not receiving password reset emails.,Email Issue,development
+T044,My university emails are going into the spam folder.,Email Issue,development
+T045,I cannot send emails using my university email account.,Email Issue,development
+T046,I am unable to open attachments in my student email.,Email Issue,development
+T047,The email application keeps asking me to sign in.,Email Issue,development
+T048,My email messages remain stuck in the outbox.,Email Issue,development
+T051,The online quiz page is not opening.,LMS & Portal Issue,development
+T052,I cannot open my course page on the learning portal.,LMS & Portal Issue,development
+T053,My student portal displays an error when I open results.,LMS & Portal Issue,development
+T054,The assignment submission page is not loading.,LMS & Portal Issue,development
+T055,I cannot register for a course through the student portal.,LMS & Portal Issue,development
+T056,The LMS keeps logging me out during online classes.,LMS & Portal Issue,development
+T057,My attendance information is not appearing in the LMS.,LMS & Portal Issue,development
+T058,I cannot view my course timetable on the university portal.,LMS & Portal Issue,development
+T061,The printer keeps displaying a paper jam error.,Printer Issue,development
+T062,The printer is not recognizing the paper tray.,Printer Issue,development
+T063,I cannot connect my laptop to the library printer.,Printer Issue,development
+T064,The university printer is responding very slowly.,Printer Issue,development
+T065,I cannot print documents from the computer lab.,Printer Issue,development
+T066,The university printer is showing an offline status.,Printer Issue,development
+T067,My printed document has missing lines and text.,Printer Issue,development
+T068,The printer produces blank pages.,Printer Issue,development
+T071,I cannot open my saved assignment file.,Data & File Access,development
+T072,My document disappeared after restarting my laptop.,Data & File Access,development
+T073,The shared folder is showing an access denied message.,Data & File Access,development
+T074,My uploaded assignment file cannot be accessed.,Data & File Access,development
+T075,My files are not syncing with university cloud storage.,Data & File Access,development
+T076,I cannot access files stored on the university shared drive.,Data & File Access,development
+T077,My project folder is missing from the computer.,Data & File Access,development
+T078,I accidentally deleted an important university project file.,Data & File Access,development
+T081,My antivirus detected a potentially harmful file.,Security & Phishing,development
+T082,I received a suspicious email asking for my university password.,Security & Phishing,development
+T083,I received an email pretending to be from university IT support.,Security & Phishing,development
+T084,A website is asking me to enter my university credentials unexpectedly.,Security & Phishing,development
+T085,A suspicious attachment was sent to my university email.,Security & Phishing,development
+T086,I noticed an unfamiliar login attempt on my account.,Security & Phishing,development
+T087,I think my university email account may have been compromised.,Security & Phishing,development
+T088,I think someone accessed my student account without permission.,Security & Phishing,development
+T091,Please guide me on how to use the campus IT services.,General IT Support,development
+T092,I need help preparing my computer for an upcoming presentation.,General IT Support,development
+T093,Can someone explain how to connect a projector?,General IT Support,development
+T094,I need assistance with a general computer-related question.,General IT Support,development
+T095,I need technical assistance setting up my workstation.,General IT Support,development
+T096,I would like guidance on using the university technology facilities.,General IT Support,development
+T097,Can IT support help me understand the available software?,General IT Support,development
+T098,I have a question about the university computer facilities.,General IT Support,development

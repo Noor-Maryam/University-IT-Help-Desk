@@ -1,0 +1,21 @@
+id,ticket,expected_category,split
+T009,I cannot log into my student account even after entering the correct password.,Login & Account Access,eval
+T010,My university account says my password is incorrect.,Login & Account Access,eval
+T019,I cannot connect my phone to the campus Wi-Fi.,Wi-Fi & Network,eval
+T020,The campus internet is extremely slow during lectures.,Wi-Fi & Network,eval
+T029,The software installer closes before installation finishes.,Software Installation,eval
+T030,The application setup file is not opening on my computer.,Software Installation,eval
+T039,The university desktop computer does not turn on.,Hardware Problem,eval
+T040,My laptop touchpad has stopped working.,Hardware Problem,eval
+T049,I cannot send an email to my course instructor.,Email Issue,eval
+T050,My university inbox is not receiving new messages.,Email Issue,eval
+T059,My online lecture is not appearing in the LMS.,LMS & Portal Issue,eval
+T060,My course materials are missing from the learning portal.,LMS & Portal Issue,eval
+T069,The printer is not printing my assignment.,Printer Issue,eval
+T070,My document is stuck in the printer queue.,Printer Issue,eval
+T079,I cannot open a PDF document downloaded from the portal.,Data & File Access,eval
+T080,The system says I do not have permission to open a file.,Data & File Access,eval
+T089,My computer displayed a warning about a possible virus.,Security & Phishing,eval
+T090,Someone sent me a suspicious link claiming to be from the university.,Security & Phishing,eval
+T099,I need help understanding how to use the computer lab system.,General IT Support,eval
+T100,I need help configuring my computer for university work.,General IT Support,eval
